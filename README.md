@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Mustafa. Welcome to my repo.
 
+- 🔭 I’m currently working on DevOps Project.
+
 <!--
 **mustyfdn/mustyfdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
